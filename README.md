@@ -23,3 +23,5 @@ Magyarul nem fog egyből beadni egy érvényes kódot, adj neki időt!
 - Program végén való újraindítási lehetőség.
 - Ikonok. (X, Pipa stb..)
 - Webhook integráció szebb dizájn.
+
+![nitro](https://user-images.githubusercontent.com/67691704/191809731-b51a81ab-3a85-41b0-910d-af271cffe621.png)
