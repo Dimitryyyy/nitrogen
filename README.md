@@ -1,5 +1,4 @@
-# nitrogen
-←---[-]--- 🔮 Nitró generátor &amp; Ellenörző - V2 UPDATE 🔮 --[-]---→
+# ←---[-]--- 🔮 Nitró generátor &amp; Ellenörző - V2 UPDATE 🔮 --[-]---→
 
 ⚠️ Használat ➛
 Felhívjuk a figyelmet arra, hogy az ellenörző rendszer nem mindíg
