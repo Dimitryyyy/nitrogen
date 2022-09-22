@@ -18,8 +18,8 @@ Magyarul nem fog egyből beadni egy érvényes kódot, adj neki időt!
 6) Kész vagy!
 
 📋 Frissítés tartalma (V2) ➛
-➡ Szebb, újabb felület.
-➡ Internet ellenörzés, API, GEN betöltése.
-➡ Program végén való újraindítási lehetőség.
-➡ Ikonok. (X, Pipa stb..)
-➡ Webhook integráció szebb dizájn.
+- Szebb, újabb felület.
+- Internet ellenörzés, API, GEN betöltése.
+- Program végén való újraindítási lehetőség.
+- Ikonok. (X, Pipa stb..)
+- Webhook integráció szebb dizájn.
