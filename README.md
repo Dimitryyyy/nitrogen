@@ -1,6 +1,7 @@
 ←---[-]--- 🔮 Nitró generátor &amp; Ellenörző - V2 UPDATE 🔮 --[-]---→
 
 ⚠️ Használat ➛
+
 Felhívjuk a figyelmet arra, hogy az ellenörző rendszer nem mindíg
 működhet! Mivel API-t használ, ezért a szkennelés során az API
 letilthatja egy időre a kérelmeket, így nem mindíg fogja kiírni,
