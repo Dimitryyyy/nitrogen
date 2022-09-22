@@ -1,5 +1,7 @@
 # nitrogen
------- Nitró generátor &amp; ellenörző ------
+------ Nitró generátor &amp; Ellenörző ------
+
+
 
 Telepítése: 
 1) Töltsd le a nitrogen.py fájlt.
@@ -10,3 +12,4 @@ Telepítése:
 6) Írd be a webhookot, ha nem kell, szimplán nyomj egy entert.
 7) Kész vagy!
 
+![image](https://user-images.githubusercontent.com/67691704/191795559-6c80433f-c758-4ed0-86c6-074977f582bf.png)
